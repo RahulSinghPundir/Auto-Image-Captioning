@@ -8,7 +8,7 @@ Ready to use project all files- https://huggingface.co/spaces/RahulSinghPundir/I
 
 Other Projects- https://rahulsinghpundir.pythonanywhere.com/project
 
-In this project, we have built an image captioning system using the Keras and TensorFlow frameworks. The system follows an encoder-decoder architecture, where the encoder is implemented using the InceptionV3 model, and the decoder utilizes the Transformer model.
+In this project, I have built an image captioning system using the Keras and TensorFlow frameworks. The system follows an encoder-decoder architecture, where the encoder is implemented using the InceptionV3 model, and the decoder utilizes the Transformer model.
 
 The InceptionV3 model, pre-trained on a large-scale image classification task, serves as the encoder. It extracts high-level visual features from the input images, capturing important information about their content. These features are then passed on to the decoder for further processing.
 
