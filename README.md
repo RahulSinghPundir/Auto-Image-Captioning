@@ -18,4 +18,4 @@ By combining the InceptionV3 encoder with the Transformer decoder, our image cap
 
 The project utilizes the capabilities of Keras and TensorFlow to implement and train the encoder-decoder architecture. By leveraging these powerful deep learning frameworks, we can efficiently process and train the models, enabling them to learn and generate high-quality image captions.
 
-Overall, this project demonstrates the effectiveness of combining the InceptionV3 encoder and the Transformer decoder in an image captioning system. The utilization of Keras and TensorFlow provides a robust and efficient implementation framework, enabling the generation of accurate and meaningful captions for a wide range of images. write this in one line
+Overall, this project demonstrates the effectiveness of combining the InceptionV3 encoder and the Transformer decoder in an image captioning system. The utilization of Keras and TensorFlow provides a robust and efficient implementation framework, enabling the generation of accurate and meaningful captions for a wide range of images. 
